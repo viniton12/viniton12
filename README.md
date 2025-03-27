@@ -22,10 +22,11 @@
 
 ## 📫 Onde me encontrar  
 
-[![LinkedIn](![image](https://github.com/user-attachments/assets/142b8b53-f2e5-4436-942c-f6823f435505)
-)](https://www.linkedin.com/in/viniciuscalisto/)  
-[![Email](![image](https://github.com/user-attachments/assets/9385f41e-beb5-4280-84c1-bc276c2306bf)
-)](viniciuscalisto09@gmail.com)  
+[![LinkedIn](https://github.com/user-attachments/assets/bc819cf2-0556-4806-a270-eaa8cc4dcbdd)](https://www.linkedin.com/in/viniciuscalisto/)  [![Email](https://github.com/user-attachments/assets/9385f41e-beb5-4280-84c1-bc276c2306bf)](mailto:viniciuscalisto09@gmail.com)
+
+
+
+
 
 ## 🚀 Linguagens& Ferramentas  
 
