@@ -24,8 +24,7 @@
 ## 📌 Projetos em andamento  
 
 🔹 **Análise da distribuição das formigas e lacunaridade da paisagem**  
-🔹 **Desenvolvimento de um dashboard interativo para visualização de dados ambientais**  
-🔹 **Criação de um classificador de espécies usando Machine Learning**  
+🔹 **Desenvolvimento de um dashboard interativo para visualização de dados ambientais**   
 🔹 **Desenvolvimento de um jogo de RPG em Python**  
 
 ---
@@ -36,8 +35,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Vinícius-black?style=flat&logo=github)]((https://github.com/viniton12))  
 [![Email](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](viniciuscalisto09@gmail.com)  
 
-## Linguagens  e ferramentas
+## 🚀 Linguagens& Ferramentas  
 
+- **Linguagens**: Python, SQL, HTML, CSS  
+- **Bibliotecas & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit, Plotly, Dash  
+- **Ferramentas**: Git, GitHub, Google Colab, VS Code, QGIS  
+- **Técnicas**: Machine Learning, análise de regressão, modelagem estatística, lacunaridade  
 
 ![image](https://github.com/user-attachments/assets/43ce98db-4c02-4fd0-90f9-d3083d836eff)
 ![image](https://github.com/user-attachments/assets/3164c9a1-a256-4091-9720-79080a8ee930)
