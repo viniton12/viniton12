@@ -19,7 +19,11 @@
 🔹 **Desenvolvimento de um jogo de RPG em Python**  
 
 ---
+<!-- ## Bootcamps e Programas
+Atualmente estou participando dos seguintes bootcamps e programas de capacitação:
 
+📊 <Hello, ONE!> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados -->
+---
 ## 📫 Onde me encontrar  
 
 [![LinkedIn](https://github.com/user-attachments/assets/bc819cf2-0556-4806-a270-eaa8cc4dcbdd)](https://www.linkedin.com/in/viniciuscalisto/)  [![Email](https://github.com/user-attachments/assets/9385f41e-beb5-4280-84c1-bc276c2306bf)](mailto:viniciuscalisto09@gmail.com)
