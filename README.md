@@ -12,15 +12,6 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
-
-- **Linguagens**: Python, SQL, HTML, CSS  
-- **Bibliotecas & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit, Plotly, Dash  
-- **Ferramentas**: Git, GitHub, Google Colab, VS Code, QGIS  
-- **Técnicas**: Machine Learning, análise de regressão, modelagem estatística, lacunaridade  
-
----
-
 ## 📌 Projetos em andamento  
 
 🔹 **Análise da distribuição das formigas e lacunaridade da paisagem**  
