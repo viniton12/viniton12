@@ -35,7 +35,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viniciuscalisto/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Vinícius-black?style=flat&logo=github)]((https://github.com/viniton12))  
 [![Email](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](viniciuscalisto09@gmail.com)  
-## Linguagens  
+
+## Linguagens  e ferramentas
+
+![image](https://github.com/user-attachments/assets/43ce98db-4c02-4fd0-90f9-d3083d836eff)
+![image](https://github.com/user-attachments/assets/722cbe01-6e08-48cb-a293-565a177eac79)
+![image](https://github.com/user-attachments/assets/a3c38b69-19c6-4da5-8121-aedac76abd23)
+
+
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
