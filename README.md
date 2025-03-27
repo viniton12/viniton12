@@ -34,11 +34,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/viniciuscalisto/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Vinícius-black?style=flat&logo=github)]((https://github.com/viniton12))  
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](viniciuscalisto09@gmail.com)  
-## Linguagens  
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](viniciuscalisto09@gmail.com) 
+
+## Linguagens  e ferramentas
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+![image](https://github.com/user-attachments/assets/43ca0313-3775-435a-827d-7b50cc09df43)
 ---
 
 🔎 **Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos que unem ciência e tecnologia!** 🚀  
