@@ -44,9 +44,6 @@
 
 
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
 ---
 
 🔎 **Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos que unem ciência e tecnologia!** 🚀  
